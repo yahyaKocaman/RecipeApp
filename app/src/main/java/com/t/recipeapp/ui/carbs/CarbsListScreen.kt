@@ -6,7 +6,6 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -16,7 +15,6 @@ import androidx.navigation.NavController
 import com.t.recipeapp.R
 import com.t.recipeapp.carbRecipes
 import com.t.recipeapp.getRandomSublist
-import com.t.recipeapp.ui.RecipeCard
 import com.t.recipeapp.ui.RecipeImageButton
 
 @Composable

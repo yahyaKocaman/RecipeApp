@@ -7,7 +7,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavController
-import com.t.recipeapp.data.FavoriteRecipe
 
 @Composable
 fun FavoriteRecipesScreen(

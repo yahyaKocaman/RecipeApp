@@ -9,8 +9,6 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.t.recipeapp.data.FavoriteRecipe
-import com.t.recipeapp.data.RecipeType
 import com.t.recipeapp.ui.carbs.CarbsDetailScreen
 import com.t.recipeapp.ui.carbs.CarbsListScreen
 import com.t.recipeapp.ui.fats.FatsDetailScreen
