@@ -243,6 +243,39 @@
                   </llm>
                 </llm>
               </chat>
+              <chat>
+                <internalId value="761112e2-7850-4d05-9a47-40bdad910090" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="408ea1d9-faf6-473b-b251-0300b3d48c78" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="com.t.recipeapp deki tüm kodları görüyormusun" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Merhaba, maalesef com.t.recipeapp paketindeki tüm kodları görme erişimim bulunmuyor. Ben sadece siz insanların bana sağladığı kod parçalarını ve açıklamaları görebiliyorum. Eğer belirli bir kod parçası paylaşırsanız, o zaman size yardımcı olmaya çalışabilirim." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-05-28T09:51:17.6269982" />
+              </chat>
             </list>
           </chats>
           <defaultLlm>
