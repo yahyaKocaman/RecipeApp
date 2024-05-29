@@ -1,4 +1,4 @@
-// FatsListScreen.kt
+
 package com.t.recipeapp.ui.fats
 
 import androidx.compose.foundation.Image

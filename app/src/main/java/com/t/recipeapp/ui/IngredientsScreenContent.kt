@@ -20,7 +20,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import com.t.recipeapp.data.Ingredient
 
-// IngredientsScreen.kt
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun IngredientsScreenContent(

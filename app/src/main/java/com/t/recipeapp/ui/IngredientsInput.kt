@@ -27,7 +27,7 @@ fun IngredientsInput(
             onValueChange = { newValue ->
                 ingredientName[0] = newValue
             },
-            label = { Text("Ingredient Name"
+            label = { Text("Enter your current ingredient"
             , modifier = Modifier.fillMaxWidth()) }
         )
         Button(modifier = Modifier.fillMaxWidth(),

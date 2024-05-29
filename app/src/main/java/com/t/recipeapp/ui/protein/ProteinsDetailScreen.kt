@@ -1,4 +1,4 @@
-// ProteinsDetailScreen.kt
+
 package com.t.recipeapp.ui.protein
 
 import androidx.compose.runtime.Composable
@@ -10,7 +10,6 @@ import com.t.recipeapp.data.RecipeType
 import com.t.recipeapp.ui.RecipeDetailScreen
 import com.t.recipeapp.ui.RecipeViewModel
 
-// ProteinsDetailScreen.kt
 @Composable
 fun ProteinsDetailScreen(
     recipeId: Int,

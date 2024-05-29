@@ -31,10 +31,10 @@ fun RecipeImageButton(
             painter = painterResource(id = recipe.imageResourceId),
             contentDescription = null,
             modifier = Modifier
-                .size(220.dp) // Set a fixed size for the Image
-                .aspectRatio(1f) // Maintain the aspect ratio of the image
+                .size(220.dp)
+                .aspectRatio(1f)
                 .clickable { onButtonClick() },
-            contentScale = ContentScale.Crop // Crop the image if necessary
+            contentScale = ContentScale.Crop
         )
     }
 }

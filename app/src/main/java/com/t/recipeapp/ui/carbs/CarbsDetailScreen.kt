@@ -1,4 +1,4 @@
-// CarbsDetailScreen.kt
+
 package com.t.recipeapp.ui.carbs
 
 import androidx.compose.runtime.Composable
@@ -10,7 +10,7 @@ import com.t.recipeapp.data.RecipeType
 import com.t.recipeapp.ui.RecipeDetailScreen
 import com.t.recipeapp.ui.RecipeViewModel
 
-// CarbsDetailScreen.kt
+
 @Composable
 fun CarbsDetailScreen(
     recipeId: Int,

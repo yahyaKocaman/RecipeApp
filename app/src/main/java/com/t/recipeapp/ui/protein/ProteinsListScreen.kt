@@ -1,4 +1,4 @@
-// ProteinsListScreen.kt
+
 package com.t.recipeapp.ui.protein
 
 import androidx.compose.foundation.Image
@@ -18,7 +18,7 @@ import com.t.recipeapp.proteinRecipes
 import com.t.recipeapp.ui.RecipeImageButton
 
 
-// ProteinsListScreen.kt
+
 @Composable
 fun ProteinsListScreen(
     navController: NavController,

@@ -1,4 +1,4 @@
-// RecipeCard.kt
+
 package com.t.recipeapp.ui
 
 import androidx.compose.foundation.Image

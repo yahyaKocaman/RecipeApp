@@ -1,12 +1,10 @@
-// SeeData.kt
+
 package com.t.recipeapp
 
 import com.t.recipeapp.data.Ingredient
 import com.t.recipeapp.data.Recipe
 import com.t.recipeapp.data.RecipeType
 
-// Carb recipes
-// Carb recipes
 val carbRecipes = listOf(
     Recipe(
         id = 1,

@@ -1,4 +1,4 @@
-// FatsDetailScreen.kt
+
 package com.t.recipeapp.ui.fats
 
 import androidx.compose.runtime.Composable
@@ -10,7 +10,7 @@ import com.t.recipeapp.data.RecipeType
 import com.t.recipeapp.ui.RecipeDetailScreen
 import com.t.recipeapp.ui.RecipeViewModel
 
-// FatsDetailScreen.kt
+
 @Composable
 fun FatsDetailScreen(
     recipeId: Int,

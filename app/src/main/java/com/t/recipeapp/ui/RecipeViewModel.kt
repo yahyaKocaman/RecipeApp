@@ -1,4 +1,4 @@
-// RecipeViewModel.kt
+
 package com.t.recipeapp.ui
 
 import android.content.Context
@@ -14,7 +14,7 @@ import com.t.recipeapp.fatRecipes
 import com.t.recipeapp.proteinRecipes
 import kotlinx.coroutines.launch
 
-// RecipeViewModel.kt
+
 class RecipeViewModel(private val recipeDao: RecipeDao, context: Context) : ViewModel() {
     private val allRecipes = carbRecipes + proteinRecipes + fatRecipes
 

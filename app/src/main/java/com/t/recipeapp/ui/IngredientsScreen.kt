@@ -1,4 +1,4 @@
-// IngredientsScreen.kt
+
 package com.t.recipeapp.ui
 
 
