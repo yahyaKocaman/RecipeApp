@@ -1,10 +1,10 @@
 
 
-RecipeApp
+# RecipeApp
 
 RecipeApp is a modern Android application built using Kotlin, designed to inspire users with random recipe suggestions based on the ingredients they have. Whether you’re a beginner or an experienced cook, RecipeApp helps you explore new culinary possibilities effortlessly.
 
-📱 Features
+ ## 📱 Features
 	•	Random Recipe Suggestions:
 Automatically generate recipes based on the ingredients users input.
 	•	Customizable Ingredient Input:
@@ -20,12 +20,12 @@ Access saved recipes even without an internet connection.
 	•	Expandable with APIs:
 Can be integrated with external recipe APIs (e.g., Spoonacular, Edamam) for a more extensive recipe database.
 
-🎯 Key Objectives
+## 🎯 Key Objectives
 	•	Simplify the cooking process for users with limited time.
 	•	Minimize food waste by using ingredients users already have.
 	•	Offer a creative and engaging experience for experimenting with cooking.
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Prerequisites
 
@@ -49,14 +49,14 @@ Allow Gradle to sync all dependencies and configurations automatically.
 	•	Connect an Android device or start an emulator.
 	•	Click “Run” to build and install the app on the target device.
 
-🔍 How It Works
+## 🔍 How It Works
 	1.	Launch the app.
 	2.	Enter the ingredients you have.
 	3.	Browse the suggested recipes tailored to your input.
 	4.	Save or favorite recipes for future reference.
 	5.	Explore categories for more inspiration.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 	•	Language: Kotlin
 	•	Architecture: MVVM (Model-View-ViewModel)
 	•	UI/UX: Jetpack Compose (or XML layouts depending on project stage)
@@ -66,7 +66,7 @@ Allow Gradle to sync all dependencies and configurations automatically.
 	•	Database: Room for offline recipe storage (optional)
 	•	Version Control: Git
 
-📂 Project Structure
+## 📂 Project Structure
 
 The project is organized into the following folders:
 	•	app/src/main/java/com/example/recipeapp: Contains the source code, including activities, view models, and utilities.
@@ -74,11 +74,11 @@ The project is organized into the following folders:
 	•	app/build.gradle: Build script for the app module.
 	•	gradle/wrapper: Gradle wrapper files for dependency management.
 
-📸 Screenshots
+## 📸 Screenshots
 
 Add screenshots to visually represent the app.
 
-🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions to make RecipeApp better!
 
@@ -106,18 +106,18 @@ Contribution Guidelines
 	•	Keep commits concise and descriptive.
 	•	Provide documentation for new features.
 
-🌟 Future Improvements
+### 🌟 Future Improvements
 	•	Integration with external APIs to enhance the recipe database.
 	•	Add voice command functionality for hands-free recipe searching.
 	•	Implement real-time weather-based recipe suggestions.
 	•	Multi-language support.
 	•	Support for dietary preferences (e.g., vegetarian, gluten-free).
 
-📝 License
+### 📝 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-📬 Contact
+## 📬 Contact
 
 For questions, suggestions, or feedback, please reach out:
 	•	GitHub: Yahya Kocaman
