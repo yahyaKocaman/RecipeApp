@@ -120,6 +120,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 📬 Contact
 
 For questions, suggestions, or feedback, please reach out:
+
 	•	GitHub: Yahya Kocaman
 	•	Email: yahyakocaman28@gmail.com
 
