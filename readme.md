@@ -40,7 +40,7 @@ Installation Steps
 git clone https://github.com/yahyaKocaman/RecipeApp.git  
 
 
-	2.	Open in Android Studio:
+ 2.	Open in Android Studio:
 	 •	Launch Android Studio.
 	 •	Open the cloned repository as an existing project.
 	
