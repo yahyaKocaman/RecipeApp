@@ -41,13 +41,15 @@ git clone https://github.com/yahyaKocaman/RecipeApp.git
 
 
 	2.	Open in Android Studio:
-	•	Launch Android Studio.
-	•	Open the cloned repository as an existing project.
-	3.	Sync Gradle:
-Allow Gradle to sync all dependencies and configurations automatically.
-	4.	Run the App:
-	•	Connect an Android device or start an emulator.
-	•	Click “Run” to build and install the app on the target device.
+	 •	Launch Android Studio.
+	 •	Open the cloned repository as an existing project.
+	
+ 3.	Sync Gradle:
+    Allow Gradle to sync all dependencies and configurations automatically.
+	
+ 4.	Run the App:
+	 •	Connect an Android device or start an emulator.
+	 •	Click “Run” to build and install the app on the target device.
 
 ## 🔍 How It Works
 	1.	Launch the app.
@@ -76,15 +78,15 @@ The project is organized into the following folders:
 
 ## 📸 Screenshots
 
-Add screenshots to visually represent the app.
+ Add screenshots to visually represent the app.
 
 ## 🤝 Contributing
 
 We welcome contributions to make RecipeApp better!
 
-Steps to Contribute
-	1.	Fork this repository.
-	2.	Create a new branch for your feature or bugfix:
+ Steps to Contribute
+	 1.	Fork this repository.
+	 2.	Create a new branch for your feature or bugfix:
 
 git checkout -b feature/YourFeature  
 
