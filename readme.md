@@ -35,7 +35,8 @@ To run the app locally, ensure you have the following:
 	•	Kotlin 1.5+ support in your IDE
 
 Installation Steps
-	1.	Clone the Repository:
+	
+ 1.	Clone the Repository:
 
 git clone https://github.com/yahyaKocaman/RecipeApp.git  
 
