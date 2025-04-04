@@ -79,7 +79,7 @@ The project is organized into the following folders:
 
 ## 📸 Screenshots
 
- Add screenshots to visually represent the app.
+ 
 
 ## 🤝 Contributing
 
